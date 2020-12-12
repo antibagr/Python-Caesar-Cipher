@@ -10,7 +10,7 @@ class kid_enigma:
 
         def shift_index(x: int) -> int:
             shifted = (x + (word_pos * direction)) % sys.maxunicode
-            # assert 0 <= shifted < length
+            # assert 0 <= shifted < sys.maxunicode
             return shifted
 
         new_text = []
