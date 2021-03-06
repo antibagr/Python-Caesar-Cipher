@@ -1,6 +1,4 @@
-# Caesar Cipher
-
-## [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
+# [Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
 
 Please, feel free to update and improve it.
 
