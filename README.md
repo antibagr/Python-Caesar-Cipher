@@ -1,9 +1,12 @@
-# Caesar Cipher encryption script.
+# Caesar Cipher
 
-Please feel free to update and improve it.
+## [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
 
-It should not be used in a real life cryptography though.
+Please, feel free to update and improve it.
 
-It's a straight shifting bytes not-so-efficient algorithm 
+**Don't use this app to ACTUALLY crypt some vulnerable information of yours.**
 
-That you can use to prank your not-a-programmer friend :D
+> It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. 
+> For example, with a left shift of 3, D would be replaced by A, E would become B, and so on.
+
+It's a not-so-efficient algorithm you can use to prank your not-so-programming friend :D
