@@ -1,4 +1,4 @@
-# Simple encryption script.
+# Caesar Cipher encryption script.
 
 Please feel free to update and improve it.
 
